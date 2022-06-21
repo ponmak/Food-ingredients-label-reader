@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "strong-impulse-352514",
+  "private_key_id": "e0db02ba2f3570895d495ac2832f85a1161a9b0c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGYnyKy8dvweZi\nHMboWfuDgj7vWgdyK7co4DuLgZmwiCxo8QFq15L5q/W7XpjbwEyYwl+yvjWxEQfv\nbkP2k0oB1egjX8xMx5sjIKBXO/IvJf2nFhZ9WGcMjR+W7/sDiXTG86RpOHqPCoNt\nz9RUXCuc4ldCWnxPU9VZ0inuWbqzn29pA8MR/CrxEsgx+g4tUp2Ymx7+z2F5tZHk\nVXQojc8lPKj2t1V3vTBoFEeRW7E/HhD6XbsFBKyJdf/IONKwfy1+9swoq81IuVcC\nirYuvqq0ohuKZ0iK0WU7rynsJ0YYDz8dpM+N1NNakEmNdFQwPr7nB5kretprMWku\nug2FjqD3AgMBAAECggEAFiqsBYA2j8y9LCpQqWa13UsWMtK+8T65j7DacRXxRnyO\nEHMZeEblLnj3PfvtyDl+SuAGfGeXgpTyFjVJFR9TuM0eIVG+Ig14TrOsZtg/u+Ka\nq0BNvAIUOvP2hdGDx9s54qnCWFrOCvdJmeFhNW86ak8PdqO7WcvME5C8TFyB/uQ3\n3AC7ftAiJj49jsRG+jQB2Qxt7/VhRnsYzueA6oEDCJSL3bzY4/K7Ep29KZFus22Y\n2ZB+XRXwKmn4cb5VtRYBmRH+OqC40vZZ0POPVe+n1oVBLorB9wnJfLwWI0K/Twf8\nL4AEMnNbnIIS0bM7L2292w/fYqfM213STnQjLEvM+QKBgQDjSGNXsoCUdUBQYvXS\nbpeoT7EXn04eMVJqWH5euvn54TIlheaNbtAbAIx3vKYNpWpwsVN/hpivx16pmdK0\n9SdbHxOUY/3rjsbZESspK9RH6kg/tY9P3rCabzUcC6AH7wHH+3+kc6VdcqSpEa24\nmoIQGU7/nK59g3gRgHPbes932QKBgQDfc18plAoSKum9gtio8MxUwB75lGwHU62C\nIBdMXDkH/QBUntZvOPSrRJnsLwXuSidC4Wc56vuUPccWSTJsyHT4pXV7dmJUtNTN\nSiCP190afp1XHDz31ayO1lOsbBDf4h8zFf7jFO8L0j6/kHPPnzCyS3MS4e4z81X6\nC3K3pAOtTwKBgBiWkjjAlOx6qtSHgDSdxkZtKKl3kInvqAzdOf6hl72SwUwR6llO\nrbDeJFQn0ocTaCp85J2dQBN0LCeI/qSZCQLwn7uj/apoLdb55oNzvGlzTRGnYLOx\nUcXDVimMkGmLT9QEv1BZOoCbkHjB8ttPy9ZWBpfcqXvmpyytitsptBwxAoGBAMlk\nF2HG/mivaqmWU6W4GcFMwt4YymC0J05/k+ALwo8TlQevfP8Ta1ktZDk9jG/fP5GE\ny9+kjQhnwZaxdBQde2da4Q7cfPVxYdaAt+ZNHQczFKYdWknYuESooRNm9rKB/7Kw\nYWDTTjvuSwWmsOpwxJf9boKXRHRoHZZWWRdwaKv7AoGBAJgkfXUuOLCLgqkhlfym\ndS9VO9m1b0oFwyTfEa37TvBwAY7pgVUzxMxGqj+0TmypnDDDjhDPHFwcDlLfQdgN\nev5kwI414eWPnHm5QgIm27jP3GWkr1PhyJDXdlPWMZ6qOkA77ce0I8U3/Dh6iVie\nKdFy0ankcg8KnpYyXQAYpPbB\n-----END PRIVATE KEY-----\n",
+  "client_email": "flawless-robots-gmail-com@strong-impulse-352514.iam.gserviceaccount.com",
+  "client_id": "107596824874271654255",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flawless-robots-gmail-com%40strong-impulse-352514.iam.gserviceaccount.com"
+}
