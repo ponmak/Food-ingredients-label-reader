@@ -19,7 +19,7 @@ st.subheader('This is a simple app that can detect text in image and compare wit
 st.subheader('Please upload your image 📷')
 
 # read file which contain authorized & enable google vision api
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r'\strong-impulse-352514-e0db02ba2f35.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r'strong-impulse-352514-e0db02ba2f35.json'
 
 texts_data_gg_vision = []
 # get text using google vision ai
