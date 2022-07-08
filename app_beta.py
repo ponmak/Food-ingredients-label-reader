@@ -6,7 +6,6 @@ from io import StringIO
 import time
 import codecs
 import pythainlp
-import cv2
 from PIL import Image
 from pythainlp import word_vector
 from pythainlp.tokenize import word_tokenize
